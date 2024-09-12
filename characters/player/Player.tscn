@@ -45,7 +45,7 @@ animations = [{
 size = Vector2(299, 299)
 
 [node name="Player" type="Area2D"]
-scale = Vector2(0.25, 0.25)
+scale = Vector2(0.125, 0.125)
 script = ExtResource("1_2tge0")
 
 [node name="AnimatedSprite2D" type="AnimatedSprite2D" parent="."]
